@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "no-tabs": 0,
+    "no-shadow": 0,
+    "indent": ["error", "tab"],
+    "no-unused-expressions": 0,
+    "arrow-parens": 0
+  }
+}
